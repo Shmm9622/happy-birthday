@@ -1,10 +1,10 @@
 {
-  "greeting": "Hiya",
-  "name": "Lydia",
-  "greetingText": "I really like your name btw!",
-  "wishText": "May the js.prototypes always be with you! ;)",
-  "imagePath": "img/lydia2.png",
-  "text1": "It's your birthday!!! :D",
+  "greeting": "Hello",
+  "name": "Vi",
+  "greetingText": "An artist, a simp, a gods slayer and ofc SENPAI",
+  "wishText": "May the happines always be with you! ;)",
+  "imagePath": "img/Vi.jpg ",
+  "text1": "It's your birthday!!! xD",
   "textInChatBox": "Happy birthday to you!! Yeee! Many many happy blah...",
   "sendButtonLabel": "Send",
   "text2": "That's what I was going to do.",
@@ -16,8 +16,8 @@
   "smiley": ":)",
   "bigTextPart1": "S",
   "bigTextPart2": "O",
-  "wishHeading": "Happy Birthday!",
-  "outroText": "Okay, now come back and tell me if you liked it.",
-  "replayText": "Or click, if you want to watch it again.",
+  "wishHeading": "Χρόνια πολλά!",
+  "outroText": "Count your life by smiles, not tears. Count your age by friends, not years.A wish for you on your birthday, whatever you ask may you receive, whatever you seek may you find, whatever you wish may it be fulfilled on your birthday and always.Hope you always remember This big devil/bear",
+  "replayText": "sorry ik it's not much...now click if u want a reply",
   "outroSmiley": ":)"
 }
